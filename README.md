@@ -1,5 +1,5 @@
 # bootstrap-learning
-basic starter template using bootstrap
+basic bootstrap template learning bootstrap
 
 https://mairoky.github.io/bootstrap-starter-template/
 
